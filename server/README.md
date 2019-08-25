@@ -1,0 +1,1 @@
+This is the Web API project devloped uing the .net core web API.
