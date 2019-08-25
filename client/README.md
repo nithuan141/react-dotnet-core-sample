@@ -4,6 +4,14 @@ Clone this repository and run the below command from the project folder to insta
 
 ## `npm install`
 
+Replace the value of BASE_URL in config.js with the url of the hosted web API (server) (localhost/IIS)
+
+  var config = {
+      BASE_URL : 'http://localhost:4030/api'
+  }
+
+## `Build and Run`
+
 In the project directory, you can run :
 
 ### `npm start`
