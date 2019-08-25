@@ -2,7 +2,7 @@ This is the front end project which is bootstrapped with [Create React App](http
 
 Clone this repository and run the below command from the project folder to install the dependencies
 
-## npm install
+## `npm install`
 
 In the project directory, you can run :
 
